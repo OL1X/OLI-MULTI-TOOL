@@ -1,0 +1,1 @@
+To Setup The Tool Run Setup.bat After That Run Starter.bat
